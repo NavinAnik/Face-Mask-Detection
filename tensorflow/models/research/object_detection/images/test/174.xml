@@ -1,0 +1,26 @@
+<annotation>
+  <folder>anik</folder>
+  <filename>174</filename>
+  <path>H:\Robu\Mask\anik-20200612T114644Z-001\anik\174.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>338</width>
+    <height>414</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>without mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>37</xmin>
+      <ymin>38</ymin>
+      <xmax>267</xmax>
+      <ymax>305</ymax>
+    </bndbox>
+  </object>
+</annotation>

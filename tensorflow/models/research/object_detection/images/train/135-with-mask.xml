@@ -1,0 +1,26 @@
+<annotation>
+  <folder>anik</folder>
+  <filename>135-with-mask</filename>
+  <path>H:\Robu\Mask\anik-20200612T114644Z-001\anik\135-with-mask.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>320</width>
+    <height>428</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>with mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>6</ymin>
+      <xmax>271</xmax>
+      <ymax>352</ymax>
+    </bndbox>
+  </object>
+</annotation>
